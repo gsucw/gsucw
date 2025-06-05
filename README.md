@@ -1,16 +1,19 @@
-## Hi there 👋
+# My Game Catalog
+A collection of my favorite games to play
 
-<!--
-**gsucw/gsucw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Doodle Baseball
+A fun baseball game with doodle-style graphics. Swing your bat and hit home runs!
+[Play Now](https://doodle-baseball.cc)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Poor Bunny
+Help the bunny navigate through challenging obstacles in this cute platformer.
+[Play Now](https://poorbunny.cc)
+
+### Wacky Flip
+Flip your way through crazy levels in this physics-based puzzle game.
+[Play Now](https://wacky-flip-8ah.pages.dev)
+
+---
+Last updated: June 2025
